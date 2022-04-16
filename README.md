@@ -14,9 +14,7 @@ _Du kan ta bort all text som finns sedan tidigare_.
 - I de fall detta efterfrågas, dela upp delar av ditt svar i för- och nackdelar. Dina för- respektive nackdelar skall vara i form av punktlistor med kortare stycken (3-4 meningar).
 
 Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
- hidden easter egg
 
- unhidden easter egg
 ```
 function errorCallback(error) {
     switch(error.code) {
