@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="Mountains">Picture of Mountains</string>
+    <string name="Quote">“The great thing about reaching the top of the mountain is realising that there’s space for more than one person. And you’re now in the prime position to help others up.” – We Dream of Travel</string>
+    <string name="Button">Don\'t press this</string>
+
 </resources>
